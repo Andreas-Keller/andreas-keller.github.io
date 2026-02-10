@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I first graduated in biology at the University of Basel. A few years later, i made a career change to informatics by obtaining a bachelor degree at the FHNW (School of Applied Sciences of Northwestern Switzerland).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My main topic is web development, especially with WordPress websites. I have worked at four different agencies:
+- Appix AG
+- DocuMatrix GmbH
+- Megura AG
+- Raptus AG
